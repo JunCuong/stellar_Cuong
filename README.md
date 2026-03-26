@@ -1,4 +1,7 @@
 Tên Dự Án: Soroban Micro-Paywall
+https://stellar.expert/explorer/testnet/tx/33b08c7677773ff95da2a7ee834d4825101b4de54c4581d4c54e0519f3419fc2
+<img width="1385" height="182" alt="image" src="https://github.com/user-attachments/assets/b7adf2c5-d738-499b-8e28-d22328537021" />
+
 
 Mô tả: Giải pháp thanh toán vi mô (micro-transaction) trên mạng lưới Stellar/Soroban dành cho nền kinh tế sáng tạo (Creator Economy), cho phép tác giả thu phí người dùng để mở khóa nội dung ẩn (bài viết, video).
 
